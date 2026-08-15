@@ -1,8 +1,8 @@
-# **👋 Hello World! Welcome to my Github, fell free!**
+# 👋 Hello World! Welcome to my Github, fell free!
 ### My name is Pedro Teixeira, and do some... Programs!?
 
-##### Ferramentas e Tecnologias
-
+##### Programming Languages I use at me programs
+##### I'm actually learning
           
 
 
